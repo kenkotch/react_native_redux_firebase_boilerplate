@@ -10,7 +10,8 @@
 
 ## Usage
 * In ReactNative folder, yarn install, then add firebase config to App.js then run `react-native run-ios` or `react-native run-android` from terminal
-turn on remote debugging to see success message in console
+
+* turn on remote debugging to see success message in console
 
 * In API folder, yarn install, then add firebase-adminsdk.json and database url to authRoutes.js
 
