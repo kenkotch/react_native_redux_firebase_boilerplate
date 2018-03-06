@@ -6,7 +6,9 @@ The 'common' components are heavily inspired by Stephen Grider.
 
 -If you are not into linting, remove the eslint lines from package.json and delete .eslintrc
 
--In ReactNative folder, yarn install, then add firebase config to App.js
+-In ReactNative folder, yarn install, then add firebase config to App.js then run `react-native run-ios or run-android` from terminal
+turn on remote debugging to see success message in console
+
 -In API folder, yarn install, then add firebase-adminsdk.json and database url to authRoutes.js
 
 -Feel free to submit pr's.
